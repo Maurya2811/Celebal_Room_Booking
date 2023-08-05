@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Celebal_Room_Booking/static/css/main.a4b09eb6.chunk.css",
+    "main.js": "/Celebal_Room_Booking/static/js/main.eb37c645.chunk.js",
+    "main.js.map": "/Celebal_Room_Booking/static/js/main.eb37c645.chunk.js.map",
+    "runtime-main.js": "/Celebal_Room_Booking/static/js/runtime-main.ccc9d96d.js",
+    "runtime-main.js.map": "/Celebal_Room_Booking/static/js/runtime-main.ccc9d96d.js.map",
+    "static/css/2.4baac385.chunk.css": "/Celebal_Room_Booking/static/css/2.4baac385.chunk.css",
+    "static/js/2.a04be08b.chunk.js": "/Celebal_Room_Booking/static/js/2.a04be08b.chunk.js",
+    "static/js/2.a04be08b.chunk.js.map": "/Celebal_Room_Booking/static/js/2.a04be08b.chunk.js.map",
+    "static/js/3.8fc70812.chunk.js": "/Celebal_Room_Booking/static/js/3.8fc70812.chunk.js",
+    "static/js/3.8fc70812.chunk.js.map": "/Celebal_Room_Booking/static/js/3.8fc70812.chunk.js.map",
+    "index.html": "/Celebal_Room_Booking/index.html",
+    "static/css/2.4baac385.chunk.css.map": "/Celebal_Room_Booking/static/css/2.4baac385.chunk.css.map",
+    "static/css/main.a4b09eb6.chunk.css.map": "/Celebal_Room_Booking/static/css/main.a4b09eb6.chunk.css.map",
+    "static/js/2.a04be08b.chunk.js.LICENSE.txt": "/Celebal_Room_Booking/static/js/2.a04be08b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Celebal_Room_Booking/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccc9d96d.js",
+    "static/css/2.4baac385.chunk.css",
+    "static/js/2.a04be08b.chunk.js",
+    "static/css/main.a4b09eb6.chunk.css",
+    "static/js/main.eb37c645.chunk.js"
+  ]
+}
