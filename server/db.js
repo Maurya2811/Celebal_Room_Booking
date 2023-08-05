@@ -1,11 +1,11 @@
 const mongoose = require("mongoose");
-const dotenv = require("dotenv");
+
 //PLEASE EDIT YOUR MONGO DB CONNECTION HERE
 /*YOU CAN FIND SAMPLE COLLECTION at mongodb_collections folder */
-dotenv.config();
-const URL = process.env.DB_URL;
 
-mongoose.connect(URL, { useUnifiedTopology: true, useNewUrlParser: true });
+var mongoURL = "mongodb+srv://test:test123@cluster0.skwsocb.mongodb.net/mern-rooms?retryWrites=true&w=majority";
+
+mongoose.connect(mongoURL, { useUnifiedTopology: true, useNewUrlParser: true });
 
 var connection = mongoose.connection;
 
